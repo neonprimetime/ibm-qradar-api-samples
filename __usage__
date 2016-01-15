@@ -1,0 +1,19 @@
+---------------------------------
+# Examples how to use the scripts
+---------------------------------
+
+# Offenses Assigned to Myself
+> offenses/assigned_to.py -u MYUSERID
+
+id:128  [MYUSERID] SrcIP=66.66.220.109
+id:127  [MYUSERID] SrcIP=172.16.17.2
+id:126  [MYUSERID] DstIP=61.61.61.33
+id:125  [MYUSERID] DstIP=61.61.61.57
+id:124  [MYUSERID] DstIP=10.0.0.2
+
+# Offenses Not assigned to anybody yet
+> offenses/assigned_to.py -u UNASSIGNED
+
+id:133  [      ] SrcIP=190.190.117.177
+id:132  [      ] User =USER22
+id:131  [      ] SrcIP=66.66.103.118
