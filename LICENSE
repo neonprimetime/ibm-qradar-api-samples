@@ -1,3 +1,24 @@
+=========
+ibm-qradar-api-samples
+=========
+
+Similar to the ibm-security-intelligence api samples posted here on github
+   https://github.com/ibm-security-intelligence/api-samples
+
+You can use their modules
+   https://github.com/ibm-security-intelligence/api-samples/tree/master/modules
+
+With my api sample python scripts in this repo to query and do things to IBM Qradar SIEM.
+
+=========
+Requirements
+=========
+1.) IBM Qradar SIEM
+
+=========
+License
+=========
+
                                  Apache License
                            Version 2.0, January 2004
                         http://www.apache.org/licenses/
@@ -199,3 +220,11 @@
    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
    See the License for the specific language governing permissions and
    limitations under the License.
+
+
+======================
+Who Am I?
+======================
+neonprimetime security
+http://neonprimetime.blogspot.com
+ 
